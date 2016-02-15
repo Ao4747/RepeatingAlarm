@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/luonazhang/AndroidStudioProjects/RepeatingAlarm/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/Users/luonazhang/AndroidStudioProjects/RepeatingAlarm/Application/build/intermediates/pre-dexed/debug/classes-0b1c2bfc0ca3bf233a8e9da6931072ffeb24d8ac.jar" />
+    </item>
+    <item
+        jar="/Users/luonazhang/AndroidStudioProjects/RepeatingAlarm/Application/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1618fd467fb5971c394741e8976ededb97aaee0a">
+        <dex dex="/Users/luonazhang/AndroidStudioProjects/RepeatingAlarm/Application/build/intermediates/pre-dexed/debug/classes-0afa6b7ae99349196cd76d068fb57802fb217b79.jar" />
+    </item>
+    <item
+        jar="/Users/luonazhang/AndroidStudioProjects/RepeatingAlarm/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1ccbc26be2c465c622a48310e8092241b01abe80">
+        <dex dex="/Users/luonazhang/AndroidStudioProjects/RepeatingAlarm/Application/build/intermediates/pre-dexed/debug/classes-d63c7c45ccf04ae9457d3ff5cb07a319b1e3f150.jar" />
+    </item>
+    <item
+        jar="/Users/luonazhang/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/Users/luonazhang/AndroidStudioProjects/RepeatingAlarm/Application/build/intermediates/pre-dexed/debug/support-annotations-23.0.0-9b267f5c849db5484de3d50fbc86adfb903c3716.jar" />
+    </item>
+    <item
+        jar="/Users/luonazhang/AndroidStudioProjects/RepeatingAlarm/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/Users/luonazhang/AndroidStudioProjects/RepeatingAlarm/Application/build/intermediates/pre-dexed/debug/internal_impl-23.0.0-48231b5d770ec24eefa3b6e896e980e6ba24b94b.jar" />
+    </item>
+
+</items>
